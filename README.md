@@ -8,23 +8,23 @@ The purpose of this project is to demonstrate practical Power BI skills, includi
 
 **Key Features**
 
-● Summary Metrics (KPIs): Total Sales, Total Profit, Total Cost, Total Boxes, Total Shipments, with month-over-month comparisons.
-● Shipment Trend Analysis: Line chart showing shipments over time, highlighting peak and slow months.
-● Distribution Analysis: Histogram of shipments by box quantity, with zoom slider for detailed exploration.
-● Salesperson Performance: Table showing individual sales, profit, and profit percentage with visual indicators for trends.
-● Product Performance: Table displaying product-wise sales and profit margins.
-● Interactive Filters: Slicers for product category and region to dynamically update visuals.
-● Bookmarks & Navigation: Easy switching between different dashboard views for enhanced user experience.
-● Tooltips: Additional insights on hover for detailed analysis (e.g., country-level shipment performance).
+- Summary Metrics (KPIs): Total Sales, Total Profit, Total Cost, Total Boxes, Total Shipments, with month-over-month comparisons.
+- Shipment Trend Analysis: Line chart showing shipments over time, highlighting peak and slow months.
+- Distribution Analysis: Histogram of shipments by box quantity, with zoom slider for detailed exploration.
+- Salesperson Performance: Table showing individual sales, profit, and profit percentage with visual indicators for trends.
+- Product Performance: Table displaying product-wise sales and profit margins.
+- Interactive Filters: Slicers for product category and region to dynamically update visuals.
+- Bookmarks & Navigation: Easy switching between different dashboard views for enhanced user experience.
+- Tooltips: Additional insights on hover for detailed analysis (e.g., country-level shipment performance).
 
 
 **Tools & Techniques**
 
-● Power BI Desktop
-● Data Modeling
-● DAX Measures & Time Intelligence Functions
-● Interactive Visualizations (Charts, Tables, Gauges, Histograms)
-● Bookmarks & Tooltips for enhanced interactivity
+- Power BI Desktop
+- Data Modeling
+- DAX Measures & Time Intelligence Functions
+- Interactive Visualizations (Charts, Tables, Gauges, Histograms)
+- Bookmarks & Tooltips for enhanced interactivity
 
 **See the final dashboard:**
 ![portfolio dashboard](image_2025-11-10_221955078.png)
@@ -42,10 +42,10 @@ I have also created a walkthrough video of this dashboard. It will be shared on 
 
 Through this project, I practiced:
 
-● Creating a professional, interactive Power BI dashboard.
-● Applying DAX formulas for KPIs and time-intelligence calculations.
-● Designing dashboards for user-friendly navigation and data-driven insights.
-● Visualizing business performance to support decision-making.
+- Creating a professional, interactive Power BI dashboard.
+- Applying DAX formulas for KPIs and time-intelligence calculations.
+- Designing dashboards for user-friendly navigation and data-driven insights.
+- Visualizing business performance to support decision-making.
 
 **License:**
 This project is for portfolio and learning purposes. All data is sample data inspired by a chocolate company's sales.
